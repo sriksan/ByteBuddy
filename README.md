@@ -17,7 +17,7 @@ ByteBuddy is an iOS application designed to empower UNC students to take control
 
 1. **Set Goals**: Upon launching ByteBuddy, users can set their daily macronutrient goals by accessing the settings menu.
 
-2. **View Dining Hall Menus**: ByteBuddy automatically fetches the latest dining hall menus from UNC's website. Users can browse through the available food items and their nutritional information.
+2. **View Dining Hall Menus**: ByteBuddy fetches the dining hall menus from UNC's website. Users can browse through the available food items and their nutritional information.
 
 3. **Log Food Intake**: To log a meal, users simply select the food items they've consumed from the dining hall menus. ByteBuddy calculates the total macronutrient intake for the logged meal and updates the user's progress towards their goals.
 
