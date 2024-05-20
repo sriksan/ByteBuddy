@@ -4,7 +4,7 @@ ByteBuddy is an iOS application designed to empower UNC students to take control
 
 ## Features
 
-- **Data Scraping**: ByteBuddy harnesses cutting-edge web scraping techniques to provide users with the most up-to-date information on food items available in UNC dining halls, ensuring accurate nutritional insights.
+- **Data Scraping**: ByteBuddy provide users with the most up-to-date information on food items available in UNC dining halls, ensuring accurate nutritional insights.
 
 - **Macronutrient Tracking**: Users can establish personalized daily goals for macronutrients like carbohydrates, proteins, and fats. ByteBuddy offers an intuitive interface for tracking macronutrient intake throughout the day.
 
