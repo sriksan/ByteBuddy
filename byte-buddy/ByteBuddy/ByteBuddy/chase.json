@@ -1,0 +1,2066 @@
+[
+  {
+    "name": "Waffle Bar",
+    "calories": 400,
+    "fat": 13,
+    "carbs": 67,
+    "sugar": 28,
+    "protein": 4
+  },
+  {
+    "name": "Vegan Red Velvet Crinkle Cookie",
+    "calories": 160,
+    "fat": 6,
+    "carbs": 24,
+    "sugar": 12,
+    "protein": 2
+  },
+  {
+    "name": "Matzo Crackers",
+    "calories": 120,
+    "fat": 0,
+    "carbs": 25,
+    "sugar": 3,
+    "protein": 3
+  },
+  {
+    "name": "Coconut Macaroons",
+    "calories": 140,
+    "fat": 7,
+    "carbs": 17,
+    "sugar": 7,
+    "protein": 1
+  },
+  {
+    "name": "Lemon Cake",
+    "calories": 140,
+    "fat": 7,
+    "carbs": 17,
+    "sugar": 12,
+    "protein": 2
+  },
+  {
+    "name": "Vanilla Soft Serve Ice Cream",
+    "calories": 210,
+    "fat": 6,
+    "carbs": 31,
+    "sugar": 30,
+    "protein": 6
+  },
+  {
+    "name": "Chocolate Soft Serve Ice Cream",
+    "calories": 120,
+    "fat": 2.5,
+    "carbs": 20,
+    "sugar": 19,
+    "protein": 4
+  },
+  {
+    "name": "Chocolate Cake",
+    "calories": 290,
+    "fat": 11,
+    "carbs": 46,
+    "sugar": 31,
+    "protein": 3
+  },
+  {
+    "name": "Mixed Berry Cobbler",
+    "calories": 200,
+    "fat": 4.5,
+    "carbs": 36,
+    "sugar": 18,
+    "protein": 2
+  },
+  {
+    "name": "Fudge Brownie",
+    "calories": 240,
+    "fat": 9,
+    "carbs": 37,
+    "sugar": 25,
+    "protein": 3
+  },
+  {
+    "name": "Vegan Chicken Tenders",
+    "calories": 300,
+    "fat": 14,
+    "carbs": 28,
+    "sugar": 0,
+    "protein": 23
+  },
+  {
+    "name": "Rice Krispie Treats",
+    "calories": 250,
+    "fat": 6,
+    "carbs": 46,
+    "sugar": 21,
+    "protein": 2
+  },
+  {
+    "name": "Cookies",
+    "calories": 130,
+    "fat": 6,
+    "carbs": 18,
+    "sugar": 11,
+    "protein": 2
+  },
+  {
+    "name": "Chimichurri Chicken",
+    "calories": 170,
+    "fat": 6,
+    "carbs": 0.53,
+    "sugar": 0,
+    "protein": 25
+  },
+  {
+    "name": "Corn on the Cob",
+    "calories": 180,
+    "fat": 6,
+    "carbs": 34,
+    "sugar": 8,
+    "protein": 5
+  },
+  {
+    "name": "Roasted Eggplant",
+    "calories": 160,
+    "fat": 14,
+    "carbs": 9,
+    "sugar": 5,
+    "protein": 1
+  },
+  {
+    "name": "Confetti Rice",
+    "calories": 70,
+    "fat": 2,
+    "carbs": 11,
+    "sugar": 0.86,
+    "protein": 1
+  },
+  {
+    "name": "Grilled Italian Sausage with Peppers & Onions",
+    "calories": 590,
+    "fat": 50,
+    "carbs": 12,
+    "sugar": 5,
+    "protein": 21
+  },
+  {
+    "name": "Spicy Kale",
+    "calories": 60,
+    "fat": 2,
+    "carbs": 9,
+    "sugar": 3,
+    "protein": 3
+  },
+  {
+    "name": "Roasted Yellow Squash",
+    "calories": 30,
+    "fat": 0.5,
+    "carbs": 4,
+    "sugar": 3,
+    "protein": 1
+  },
+  {
+    "name": "Baked Penne",
+    "calories": 250,
+    "fat": 8,
+    "carbs": 31,
+    "sugar": 4,
+    "protein": 14
+  },
+  {
+    "name": "Grilled Pimento Cheese and Tomato Sandwich",
+    "calories": 400,
+    "fat": 24,
+    "carbs": 30,
+    "sugar": 4,
+    "protein": 13
+  },
+  {
+    "name": "Vegan Chik'n Noodle Bowl",
+    "calories": 240,
+    "fat": 6,
+    "carbs": 36,
+    "sugar": 12,
+    "protein": 11
+  },
+  {
+    "name": "Roasted Brussels Sprouts",
+    "calories": 70,
+    "fat": 1,
+    "carbs": 10,
+    "sugar": 3,
+    "protein": 4
+  },
+  {
+    "name": "Chickpea Salad",
+    "calories": 130,
+    "fat": 6,
+    "carbs": 16,
+    "sugar": 3,
+    "protein": 5
+  },
+  {
+    "name": "Egg Salad",
+    "calories": 100,
+    "fat": 26,
+    "carbs": 5,
+    "sugar": 1,
+    "protein": 9
+  },
+  {
+    "name": "California Pasta Salad",
+    "calories": 140,
+    "fat": 4,
+    "carbs": 22,
+    "sugar": 7,
+    "protein": 4
+  },
+  {
+    "name": "Celery Sticks",
+    "calories": 10,
+    "fat": 0,
+    "carbs": 3,
+    "sugar": 0,
+    "protein": 0.52
+  },
+  {
+    "name": "Baby Carrots",
+    "calories": 25,
+    "fat": 0,
+    "carbs": 5,
+    "sugar": 3,
+    "protein": 0.67
+  },
+  {
+    "name": "Pita Bread",
+    "calories": 90,
+    "fat": 0.5,
+    "carbs": 18,
+    "sugar": 1,
+    "protein": 4
+  },
+  {
+    "name": "Cheese Stuffed Shells",
+    "calories": 350,
+    "fat": 17,
+    "carbs": 33,
+    "sugar": 6,
+    "protein": 17
+  },
+  {
+    "name": "Chickpea Pasta",
+    "calories": 190,
+    "fat": 3.5,
+    "carbs": 34,
+    "sugar": 2,
+    "protein": 12
+  },
+  {
+    "name": "White Alfredo Sauce",
+    "calories": 180,
+    "fat": 13,
+    "carbs": 10,
+    "sugar": 6,
+    "protein": 6
+  },
+  {
+    "name": "Marinara Sauce",
+    "calories": 40,
+    "fat": 1,
+    "carbs": 7,
+    "sugar": 4,
+    "protein": 1
+  },
+  {
+    "name": "Plain Penne",
+    "calories": 180,
+    "fat": 1,
+    "carbs": 38,
+    "sugar": 2,
+    "protein": 6
+  },
+  {
+    "name": "Bob's Red Mill® Gluten Free Oats",
+    "calories": 210,
+    "fat": 5,
+    "carbs": 33,
+    "sugar": 1,
+    "protein": 7
+  },
+  {
+    "name": "Dolci di Maria® Carrot Cake",
+    "calories": 10,
+    "fat": 0,
+    "carbs": 1,
+    "sugar": 0.85,
+    "protein": 0
+  },
+  {
+    "name": "Dolci di Maria® GF Brownie",
+    "calories": 380,
+    "fat": 19,
+    "carbs": 53,
+    "sugar": 31,
+    "protein": 3
+  },
+  {
+    "name": "Good Health® GF Pretzels",
+    "calories": 100,
+    "fat": 3,
+    "carbs": 18,
+    "sugar": 1,
+    "protein": 1
+  },
+  {
+    "name": "JP's® Brownie",
+    "calories": 190,
+    "fat": 8,
+    "carbs": 30,
+    "sugar": 18,
+    "protein": 1
+  },
+  {
+    "name": "JP's® Gluten-Free Blueberry Muffins",
+    "calories": 290,
+    "fat": 12,
+    "carbs": 42,
+    "sugar": 21,
+    "protein": 3
+  },
+  {
+    "name": "JP's® GF Hawaiian Rolls",
+    "calories": 170,
+    "fat": 10,
+    "carbs": 17,
+    "sugar": 5,
+    "protein": 2
+  },
+  {
+    "name": "JP's® GF Vegan Chocolate Cupcake",
+    "calories": 370,
+    "fat": 18,
+    "carbs": 51,
+    "sugar": 35,
+    "protein": 2
+  },
+  {
+    "name": "JP's® Key Lime Cheesecake Bar",
+    "calories": 230,
+    "fat": 16,
+    "carbs": 19,
+    "sugar": 15,
+    "protein": 3
+  },
+  {
+    "name": "Katz® Chocolate Frosted Donut",
+    "calories": 290,
+    "fat": 17,
+    "carbs": 34,
+    "sugar": 17,
+    "protein": 1
+  },
+  {
+    "name": "Katz® Cinnamon Donut Holes",
+    "calories": 110,
+    "fat": 5,
+    "carbs": 15,
+    "sugar": 6,
+    "protein": 0.99
+  },
+  {
+    "name": "Katz® Glazed Donut Holes",
+    "calories": 130,
+    "fat": 8,
+    "carbs": 15,
+    "sugar": 8,
+    "protein": 1
+  },
+  {
+    "name": "Katz® Gluten Free Blueberry Pie",
+    "calories": 230,
+    "fat": 9,
+    "carbs": 36,
+    "sugar": 18,
+    "protein": 1
+  },
+  {
+    "name": "Katz® Oatmeal Creme Pie",
+    "calories": 240,
+    "fat": 14,
+    "carbs": 29,
+    "sugar": 12,
+    "protein": 1
+  },
+  {
+    "name": "Katz® Powdered Donut Holes",
+    "calories": 170,
+    "fat": 10,
+    "carbs": 19,
+    "sugar": 9,
+    "protein": 1
+  },
+  {
+    "name": "Katz® Vanilla Heavenly Creme Cakes",
+    "calories": 170,
+    "fat": 9,
+    "carbs": 22,
+    "sugar": 16,
+    "protein": 2
+  },
+  {
+    "name": "Kinnikinnick® Birthday Cream Sandwich Cookie",
+    "calories": 80,
+    "fat": 3,
+    "carbs": 11,
+    "sugar": 7,
+    "protein": 0.5
+  },
+  {
+    "name": "Kinnikinnick® Chocolate Sandwich Creme Cookies",
+    "calories": 60,
+    "fat": 2,
+    "carbs": 9,
+    "sugar": 5,
+    "protein": 0
+  },
+  {
+    "name": "Kinnikinnick® Cinnabun Fun Sandwich Creme Cookies",
+    "calories": 80,
+    "fat": 3,
+    "carbs": 12,
+    "sugar": 6,
+    "protein": 0
+  },
+  {
+    "name": "Kinnikinnick® Mint Magic Sandwich Creme Cookies",
+    "calories": 80,
+    "fat": 3,
+    "carbs": 11,
+    "sugar": 7,
+    "protein": 0.5
+  },
+  {
+    "name": "Kinnikinnick® Cinnamon Sugar Donuts",
+    "calories": 180,
+    "fat": 7,
+    "carbs": 29,
+    "sugar": 11,
+    "protein": 2
+  },
+  {
+    "name": "Kinnikinnick® Vanilla Glazed Donuts",
+    "calories": 210,
+    "fat": 6,
+    "carbs": 37,
+    "sugar": 19,
+    "protein": 2
+  },
+  {
+    "name": "MadeGood® Soft Baked Chocolate Chip Cookie",
+    "calories": 120,
+    "fat": 6,
+    "carbs": 14,
+    "sugar": 7,
+    "protein": 1
+  },
+  {
+    "name": "MadeGood® Soft Baked Double Chocolate Cookies",
+    "calories": 120,
+    "fat": 6,
+    "carbs": 14,
+    "sugar": 7,
+    "protein": 1
+  },
+  {
+    "name": "MadeGood® Vanilla Crispy Squares",
+    "calories": 80,
+    "fat": 1,
+    "carbs": 18,
+    "sugar": 7,
+    "protein": 1
+  },
+  {
+    "name": "GF Cinnamon & Raisin Bread",
+    "calories": 300,
+    "fat": 6,
+    "carbs": 66,
+    "sugar": 16,
+    "protein": 2
+  },
+  {
+    "name": "O'Doughs® Everything Bagel",
+    "calories": 200,
+    "fat": 4.5,
+    "carbs": 38,
+    "sugar": 8,
+    "protein": 4
+  },
+  {
+    "name": "O'Doughs® Multigrain Sandwich Slices",
+    "calories": 160,
+    "fat": 2,
+    "carbs": 33,
+    "sugar": 5,
+    "protein": 3
+  },
+  {
+    "name": "O'Doughs® Original Bagel",
+    "calories": 200,
+    "fat": 2.5,
+    "carbs": 37,
+    "sugar": 6,
+    "protein": 4
+  },
+  {
+    "name": "O'Doughs® Original Sandwich Slices",
+    "calories": 160,
+    "fat": 2,
+    "carbs": 34,
+    "sugar": 5,
+    "protein": 3
+  },
+  {
+    "name": "O'Doughs® Pumpernickel Bagel",
+    "calories": 200,
+    "fat": 6,
+    "carbs": 38,
+    "sugar": 5,
+    "protein": 5
+  },
+  {
+    "name": "Schar Ciabatta Roll",
+    "calories": 120,
+    "fat": 1.5,
+    "carbs": 25,
+    "sugar": 2,
+    "protein": 2
+  },
+  {
+    "name": "Udi's® Everything Bagel",
+    "calories": 240,
+    "fat": 8,
+    "carbs": 37,
+    "sugar": 4,
+    "protein": 5
+  },
+  {
+    "name": "Udi's® Gluten-Free Hamburger Bun",
+    "calories": 190,
+    "fat": 5,
+    "carbs": 32,
+    "sugar": 5,
+    "protein": 5
+  },
+  {
+    "name": "Udi's® Multigrain Bread",
+    "calories": 140,
+    "fat": 5,
+    "carbs": 23,
+    "sugar": 3,
+    "protein": 2
+  },
+  {
+    "name": "Udi's® Snickerdoodle Cookie",
+    "calories": 220,
+    "fat": 8,
+    "carbs": 36,
+    "sugar": 18,
+    "protein": 1
+  },
+  {
+    "name": "Udi's® White Bread",
+    "calories": 140,
+    "fat": 5,
+    "carbs": 24,
+    "sugar": 2,
+    "protein": 2
+  },
+  {
+    "name": "Low Fat Cottage Cheese",
+    "calories": 80,
+    "fat": 1,
+    "carbs": 5,
+    "sugar": 4,
+    "protein": 13
+  },
+  {
+    "name": "Lite Italian Dressing",
+    "calories": 40,
+    "fat": 3.5,
+    "carbs": 2,
+    "sugar": 2,
+    "protein": 0
+  },
+  {
+    "name": "Shredded Carrots",
+    "calories": 10,
+    "fat": 0,
+    "carbs": 3,
+    "sugar": 1,
+    "protein": 0
+  },
+  {
+    "name": "Vanilla Yogurt",
+    "calories": 140,
+    "fat": 0.5,
+    "carbs": 28,
+    "sugar": 21,
+    "protein": 6
+  },
+  {
+    "name": "Thousand Island Dressing",
+    "calories": 100,
+    "fat": 9,
+    "carbs": 5,
+    "sugar": 4,
+    "protein": 0
+  },
+  {
+    "name": "Sliced Cucumber",
+    "calories": 0,
+    "fat": 0,
+    "carbs": 1,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Strawberry Yogurt",
+    "calories": 140,
+    "fat": 0.5,
+    "carbs": 28,
+    "sugar": 21,
+    "protein": 6
+  },
+  {
+    "name": "Kidney Beans",
+    "calories": 30,
+    "fat": 0,
+    "carbs": 5,
+    "sugar": 0,
+    "protein": 2
+  },
+  {
+    "name": "Applesauce",
+    "calories": 45,
+    "fat": 0,
+    "carbs": 12,
+    "sugar": 8,
+    "protein": 0
+  },
+  {
+    "name": "Spring Salad Mix",
+    "calories": 10,
+    "fat": 0,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Grapes",
+    "calories": 50,
+    "fat": 0,
+    "carbs": 14,
+    "sugar": 12,
+    "protein": 0.54
+  },
+  {
+    "name": "Green Peppers",
+    "calories": 5,
+    "fat": 0,
+    "carbs": 1,
+    "sugar": 0.68,
+    "protein": 0
+  },
+  {
+    "name": "Baby Spinach",
+    "calories": 5,
+    "fat": 0,
+    "carbs": 1,
+    "sugar": 0,
+    "protein": 0.67
+  },
+  {
+    "name": "Pineapple",
+    "calories": 40,
+    "fat": 0,
+    "carbs": 11,
+    "sugar": 8,
+    "protein": 0
+  },
+  {
+    "name": "Iceberg Lettuce",
+    "calories": 10,
+    "fat": 0,
+    "carbs": 2,
+    "sugar": 1,
+    "protein": 0.51
+  },
+  {
+    "name": "Honey Dew",
+    "calories": 30,
+    "fat": 0,
+    "carbs": 8,
+    "sugar": 7,
+    "protein": 0
+  },
+  {
+    "name": "Blueberries",
+    "calories": 15,
+    "fat": 0,
+    "carbs": 4,
+    "sugar": 3,
+    "protein": 0
+  },
+  {
+    "name": "Croutons",
+    "calories": 60,
+    "fat": 2,
+    "carbs": 10,
+    "sugar": 0,
+    "protein": 2
+  },
+  {
+    "name": "Cantaloupe",
+    "calories": 25,
+    "fat": 0,
+    "carbs": 7,
+    "sugar": 6,
+    "protein": 0.67
+  },
+  {
+    "name": "Garbanzo Beans",
+    "calories": 25,
+    "fat": 0.5,
+    "carbs": 4,
+    "sugar": 0.78,
+    "protein": 1
+  },
+  {
+    "name": "Canned Pears",
+    "calories": 60,
+    "fat": 0,
+    "carbs": 14,
+    "sugar": 10,
+    "protein": 0
+  },
+  {
+    "name": "Raisins",
+    "calories": 90,
+    "fat": 0,
+    "carbs": 22,
+    "sugar": 21,
+    "protein": 0.71
+  },
+  {
+    "name": "Hard Boiled Eggs",
+    "calories": 45,
+    "fat": 3,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 4
+  },
+  {
+    "name": "Ranch Dressing",
+    "calories": 90,
+    "fat": 10,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Hummus",
+    "calories": 240,
+    "fat": 19,
+    "carbs": 14,
+    "sugar": 2,
+    "protein": 5
+  },
+  {
+    "name": "Bacon Bits",
+    "calories": 60,
+    "fat": 4,
+    "carbs": 0.71,
+    "sugar": 0,
+    "protein": 6
+  },
+  {
+    "name": "Balsamic Vinaigrette",
+    "calories": 60,
+    "fat": 5,
+    "carbs": 5,
+    "sugar": 4,
+    "protein": 0
+  },
+  {
+    "name": "Feta Cheese",
+    "calories": 70,
+    "fat": 6,
+    "carbs": 1,
+    "sugar": 0,
+    "protein": 4
+  },
+  {
+    "name": "Diced Chicken",
+    "calories": 100,
+    "fat": 2,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 19
+  },
+  {
+    "name": "Fat-Free Italian Dressing",
+    "calories": 15,
+    "fat": 0,
+    "carbs": 3,
+    "sugar": 2,
+    "protein": 0
+  },
+  {
+    "name": "Shredded Cheddar Cheese",
+    "calories": 110,
+    "fat": 9,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 7
+  },
+  {
+    "name": "Banana Peppers",
+    "calories": 0,
+    "fat": 0,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Diced Tofu",
+    "calories": 30,
+    "fat": 1,
+    "carbs": 0.72,
+    "sugar": 0,
+    "protein": 3
+  },
+  {
+    "name": "Green Peas",
+    "calories": 70,
+    "fat": 0,
+    "carbs": 13,
+    "sugar": 4,
+    "protein": 4
+  },
+  {
+    "name": "Honey Mustard Dressing",
+    "calories": 260,
+    "fat": 25,
+    "carbs": 8,
+    "sugar": 8,
+    "protein": 0
+  },
+  {
+    "name": "Quinoa",
+    "calories": 35,
+    "fat": 0.5,
+    "carbs": 6,
+    "sugar": 0,
+    "protein": 1
+  },
+  {
+    "name": "Beets",
+    "calories": 10,
+    "fat": 0,
+    "carbs": 2,
+    "sugar": 2,
+    "protein": 0
+  },
+  {
+    "name": "Blue Cheese Dressing",
+    "calories": 150,
+    "fat": 16,
+    "carbs": 1,
+    "sugar": 1,
+    "protein": 1
+  },
+  {
+    "name": "Black Beans",
+    "calories": 25,
+    "fat": 0,
+    "carbs": 5,
+    "sugar": 0,
+    "protein": 2
+  },
+  {
+    "name": "Mushrooms",
+    "calories": 0,
+    "fat": 0,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Caesar Dressing",
+    "calories": 150,
+    "fat": 16,
+    "carbs": 1,
+    "sugar": 0,
+    "protein": 1
+  },
+  {
+    "name": "Strawberries",
+    "calories": 35,
+    "fat": 0,
+    "carbs": 9,
+    "sugar": 6,
+    "protein": 0.76
+  },
+  {
+    "name": "Sliced Red Onion",
+    "calories": 30,
+    "fat": 0,
+    "carbs": 7,
+    "sugar": 3,
+    "protein": 1
+  },
+  {
+    "name": "Hoagie Roll",
+    "calories": 200,
+    "fat": 2.5,
+    "carbs": 36,
+    "sugar": 2,
+    "protein": 7
+  },
+  {
+    "name": "Banana Peppers",
+    "calories": 0,
+    "fat": 0,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Vegan American Sliced Cheese",
+    "calories": 60,
+    "fat": 4.5,
+    "carbs": 4,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Sliced Ham",
+    "calories": 110,
+    "fat": 5,
+    "carbs": 2,
+    "sugar": 2,
+    "protein": 14
+  },
+  {
+    "name": "Honey Chipotle Sauce",
+    "calories": 80,
+    "fat": 0.5,
+    "carbs": 18,
+    "sugar": 14,
+    "protein": 0
+  },
+  {
+    "name": "Sliced Roast Beef",
+    "calories": 110,
+    "fat": 4.5,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 15
+  },
+  {
+    "name": "Sriracha Mayonnaise",
+    "calories": 180,
+    "fat": 19,
+    "carbs": 1,
+    "sugar": 0.71,
+    "protein": 0
+  },
+  {
+    "name": "Sliced Turkey",
+    "calories": 110,
+    "fat": 1,
+    "carbs": 5,
+    "sugar": 1,
+    "protein": 18
+  },
+  {
+    "name": "Cranberry Juice",
+    "calories": 140,
+    "fat": 0,
+    "carbs": 36,
+    "sugar": 36,
+    "protein": 0
+  },
+  {
+    "name": "Tropicana Fruit Punch",
+    "calories": 110,
+    "fat": 0,
+    "carbs": 30,
+    "sugar": 30,
+    "protein": 0
+  },
+  {
+    "name": "Starry",
+    "calories": 150,
+    "fat": 0,
+    "carbs": 39,
+    "sugar": 39,
+    "protein": 0
+  },
+  {
+    "name": "Mountain Dew",
+    "calories": 110,
+    "fat": 0,
+    "carbs": 29,
+    "sugar": 29,
+    "protein": 0
+  },
+  {
+    "name": "Seasonal Hot Cocoa",
+    "calories": 120,
+    "fat": 3,
+    "carbs": 23,
+    "sugar": 23,
+    "protein": 0
+  },
+  {
+    "name": "Southern Unsweet Tea",
+    "calories": 0,
+    "fat": 0,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Diet Mountain Dew",
+    "calories": 5,
+    "fat": 0,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Seasonal Apple Cider",
+    "calories": 120,
+    "fat": 0,
+    "carbs": 30,
+    "sugar": 30,
+    "protein": 0
+  },
+  {
+    "name": "Southern Sweet Tea",
+    "calories": 130,
+    "fat": 0,
+    "carbs": 32,
+    "sugar": 32,
+    "protein": 0
+  },
+  {
+    "name": "SoBe Lifewater Pomegranate",
+    "calories": 0,
+    "fat": 0,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Chocolate Soymilk",
+    "calories": 120,
+    "fat": 3,
+    "carbs": 19,
+    "sugar": 17,
+    "protein": 5
+  },
+  {
+    "name": "Brisk Green Tea Peach",
+    "calories": 0,
+    "fat": 0,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Maola Reduced Fat Milk",
+    "calories": 200,
+    "fat": 8,
+    "carbs": 18,
+    "sugar": 18,
+    "protein": 12
+  },
+  {
+    "name": "Vanilla Soymilk",
+    "calories": 100,
+    "fat": 3.5,
+    "carbs": 10,
+    "sugar": 9,
+    "protein": 8
+  },
+  {
+    "name": "Cheerwine",
+    "calories": 100,
+    "fat": 0,
+    "carbs": 28,
+    "sugar": 28,
+    "protein": 0
+  },
+  {
+    "name": "Maola Skim Milk",
+    "calories": 120,
+    "fat": 0,
+    "carbs": 18,
+    "sugar": 18,
+    "protein": 12
+  },
+  {
+    "name": "Dr. Pepper",
+    "calories": 100,
+    "fat": 0,
+    "carbs": 26,
+    "sugar": 26,
+    "protein": 0
+  },
+  {
+    "name": "Pepsi Zero Sugar",
+    "calories": 0,
+    "fat": 0,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Maola 1% Chocolate Milk",
+    "calories": 230,
+    "fat": 3.5,
+    "carbs": 39,
+    "sugar": 38,
+    "protein": 12
+  },
+  {
+    "name": "Diet Dr. Pepper",
+    "calories": 0,
+    "fat": 0,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Pepsi",
+    "calories": 100,
+    "fat": 0,
+    "carbs": 28,
+    "sugar": 28,
+    "protein": 0
+  },
+  {
+    "name": "100% Apple Juice",
+    "calories": 110,
+    "fat": 0,
+    "carbs": 28,
+    "sugar": 28,
+    "protein": 0
+  },
+  {
+    "name": "Root Beer",
+    "calories": 100,
+    "fat": 0,
+    "carbs": 26,
+    "sugar": 26,
+    "protein": 0
+  },
+  {
+    "name": "Gatorade Fruit Punch",
+    "calories": 80,
+    "fat": 0,
+    "carbs": 21,
+    "sugar": 21,
+    "protein": 0
+  },
+  {
+    "name": "100% Orange Juice",
+    "calories": 120,
+    "fat": 0,
+    "carbs": 31,
+    "sugar": 31,
+    "protein": 0
+  },
+  {
+    "name": "Sunkist Orange",
+    "calories": 110,
+    "fat": 0,
+    "carbs": 29,
+    "sugar": 29,
+    "protein": 0
+  },
+  {
+    "name": "Gatorade Orange",
+    "calories": 80,
+    "fat": 0,
+    "carbs": 22,
+    "sugar": 21,
+    "protein": 0
+  },
+  {
+    "name": "Strawberry Kiwi Juice",
+    "calories": 120,
+    "fat": 0,
+    "carbs": 30,
+    "sugar": 25,
+    "protein": 0
+  },
+  {
+    "name": "Tropicana Lemonade",
+    "calories": 100,
+    "fat": 0,
+    "carbs": 27,
+    "sugar": 27,
+    "protein": 0
+  },
+  {
+    "name": "Plain Bagel",
+    "calories": 280,
+    "fat": 3.5,
+    "carbs": 51,
+    "sugar": 3,
+    "protein": 10
+  },
+  {
+    "name": "Multigrain Bagel",
+    "calories": 350,
+    "fat": 6,
+    "carbs": 63,
+    "sugar": 3,
+    "protein": 12
+  },
+  {
+    "name": "Kaiser Roll",
+    "calories": 230,
+    "fat": 6,
+    "carbs": 38,
+    "sugar": 2,
+    "protein": 8
+  },
+  {
+    "name": "Everything Bagel",
+    "calories": 370,
+    "fat": 8,
+    "carbs": 63,
+    "sugar": 3,
+    "protein": 13
+  },
+  {
+    "name": "Rye Bread Slice",
+    "calories": 90,
+    "fat": 2.5,
+    "carbs": 15,
+    "sugar": 0,
+    "protein": 3
+  },
+  {
+    "name": "Hoagie Roll",
+    "calories": 240,
+    "fat": 0,
+    "carbs": 39,
+    "sugar": 2,
+    "protein": 8
+  },
+  {
+    "name": "Blueberry Bagel",
+    "calories": 340,
+    "fat": 4.5,
+    "carbs": 63,
+    "sugar": 7,
+    "protein": 11
+  },
+  {
+    "name": "Multigrain Bread",
+    "calories": 160,
+    "fat": 3.5,
+    "carbs": 27,
+    "sugar": 3,
+    "protein": 5
+  },
+  {
+    "name": "Cheese Bagel",
+    "calories": 370,
+    "fat": 9,
+    "carbs": 58,
+    "sugar": 3,
+    "protein": 15
+  },
+  {
+    "name": "Wheat Bread Slice",
+    "calories": 100,
+    "fat": 3,
+    "carbs": 15,
+    "sugar": 1,
+    "protein": 3
+  },
+  {
+    "name": "Margarine",
+    "calories": 100,
+    "fat": 11,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Plain Cream Cheese Spread",
+    "calories": 90,
+    "fat": 0,
+    "carbs": 2,
+    "sugar": 1,
+    "protein": 2
+  },
+  {
+    "name": "Siracha Sauce",
+    "calories": 5,
+    "fat": 0,
+    "carbs": 1,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Oil and Vinegar",
+    "calories": 190,
+    "fat": 21,
+    "carbs": 1,
+    "sugar": 1,
+    "protein": 0
+  },
+  {
+    "name": "Strawberry Cream Cheese",
+    "calories": 90,
+    "fat": 8,
+    "carbs": 5,
+    "sugar": 4,
+    "protein": 1
+  },
+  {
+    "name": "Texas Pete Hot Sauce",
+    "calories": 0,
+    "fat": 0,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Tabasco Hot Sauce",
+    "calories": 0,
+    "fat": 0,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Chives and Onion Cream Cheese",
+    "calories": 90,
+    "fat": 9,
+    "carbs": 2,
+    "sugar": 2,
+    "protein": 2
+  },
+  {
+    "name": "Grape Jelly",
+    "calories": 35,
+    "fat": 0,
+    "carbs": 9,
+    "sugar": 8,
+    "protein": 0
+  },
+  {
+    "name": "Apple Jacks",
+    "calories": 110,
+    "fat": 1,
+    "carbs": 23,
+    "sugar": 8,
+    "protein": 0
+  },
+  {
+    "name": "Lucky Charms",
+    "calories": 110,
+    "fat": 1,
+    "carbs": 22,
+    "sugar": 10,
+    "protein": 2
+  },
+  {
+    "name": "Fruit Loops",
+    "calories": 110,
+    "fat": 1,
+    "carbs": 26,
+    "sugar": 12,
+    "protein": 1
+  },
+  {
+    "name": "Cinnamon Toast Crunch",
+    "calories": 120,
+    "fat": 2.3,
+    "carbs": 23,
+    "sugar": 9,
+    "protein": 1
+  },
+  {
+    "name": "Krave Chocolate Cereal",
+    "calories": 170,
+    "fat": 4.5,
+    "carbs": 32,
+    "sugar": 15,
+    "protein": 3
+  },
+  {
+    "name": "Oats and Honey Granola",
+    "calories": 270,
+    "fat": 7,
+    "carbs": 46,
+    "sugar": 14,
+    "protein": 6
+  },
+  {
+    "name": "Frosted Flakes",
+    "calories": 170,
+    "fat": 0,
+    "carbs": 42,
+    "sugar": 15,
+    "protein": 3
+  },
+  {
+    "name": "Cheerios",
+    "calories": 80,
+    "fat": 1,
+    "carbs": 16,
+    "sugar": 2,
+    "protein": 3
+  },
+  {
+    "name": "Cocoa Puffs",
+    "calories": 130,
+    "fat": 2,
+    "carbs": 31,
+    "sugar": 13,
+    "protein": 1
+  },
+  {
+    "name": "Raisin Bran",
+    "calories": 190,
+    "fat": 1,
+    "carbs": 42,
+    "sugar": 20,
+    "protein": 4
+  },
+  {
+    "name": "Amy's Burrito with Cheese, Beans & Rice",
+    "calories": 280,
+    "fat": 9,
+    "carbs": 40,
+    "sugar": 4,
+    "protein": 9
+  },
+  {
+    "name": "Amy's Black Bean Vegetable Enchilada",
+    "calories": 180,
+    "fat": 6,
+    "carbs": 26,
+    "sugar": 2,
+    "protein": 5
+  },
+  {
+    "name": "Amy's Bean and Rice Burrito",
+    "calories": 300,
+    "fat": 8,
+    "carbs": 50,
+    "sugar": 4,
+    "protein": 8
+  },
+  {
+    "name": "Amy's Vegan Mac & Cheese",
+    "calories": 520,
+    "fat": 22,
+    "carbs": 27,
+    "sugar": 0,
+    "protein": 8
+  },
+  {
+    "name": "Sliced Onions",
+    "calories": 5,
+    "fat": 0,
+    "carbs": 1,
+    "sugar": 1,
+    "protein": 0
+  },
+  {
+    "name": "Shredded Parmesan Cheese",
+    "calories": 110,
+    "fat": 9,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 6
+  },
+  {
+    "name": "Sliced Mixed Bell Peppers",
+    "calories": 100,
+    "fat": 1,
+    "carbs": 24,
+    "sugar": 15,
+    "protein": 4
+  },
+  {
+    "name": "Kalamata Olives",
+    "calories": 80,
+    "fat": 8,
+    "carbs": 2,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Artichoke Hearts",
+    "calories": 10,
+    "fat": 0,
+    "carbs": 2,
+    "sugar": 0,
+    "protein": 1
+  },
+  {
+    "name": "Plain Penne",
+    "calories": 180,
+    "fat": 1,
+    "carbs": 38,
+    "sugar": 2,
+    "protein": 6
+  },
+  {
+    "name": "Diced Ham",
+    "calories": 35,
+    "fat": 1.5,
+    "carbs": 0.5,
+    "sugar": 0.5,
+    "protein": 5
+  },
+  {
+    "name": "Cajun Chips",
+    "calories": 140,
+    "fat": 9,
+    "carbs": 13,
+    "sugar": 0,
+    "protein": 1
+  },
+  {
+    "name": "Grilled Chicken Breast",
+    "calories": 170,
+    "fat": 3.5,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 35
+  },
+  {
+    "name": "O'Doughs Original Sandwich Slices",
+    "calories": 160,
+    "fat": 2,
+    "carbs": 34,
+    "sugar": 5,
+    "protein": 3
+  },
+  {
+    "name": "12' Flour Tortillas",
+    "calories": 210,
+    "fat": 5,
+    "carbs": 34,
+    "sugar": 1,
+    "protein": 6
+  },
+  {
+    "name": "Heirloom Tomatoes",
+    "calories": 30,
+    "fat": 0,
+    "carbs": 6,
+    "sugar": 4,
+    "protein": 1
+  },
+  {
+    "name": "Udi's Gluten-Free Hoagie Roll",
+    "calories": 470,
+    "fat": 14,
+    "carbs": 76,
+    "sugar": 7,
+    "protein": 12
+  },
+  {
+    "name": "White Bread",
+    "calories": 100,
+    "fat": 2.5,
+    "carbs": 16,
+    "sugar": 1,
+    "protein": 3
+  },
+  {
+    "name": "Sliced Pepper Jack Cheese",
+    "calories": 50,
+    "fat": 4,
+    "carbs": 0.5,
+    "sugar": 0,
+    "protein": 4
+  },
+  {
+    "name": "Udi's Multigrain Bread",
+    "calories": 140,
+    "fat": 5,
+    "carbs": 23,
+    "sugar": 3,
+    "protein": 2
+  },
+  {
+    "name": "Swiss Cheese",
+    "calories": 60,
+    "fat": 4,
+    "carbs": 0.62,
+    "sugar": 0.62,
+    "protein": 4
+  },
+  {
+    "name": "Udi's White Bread",
+    "calories": 140,
+    "fat": 5,
+    "carbs": 24,
+    "sugar": 2,
+    "protein": 2
+  },
+  {
+    "name": "Sliced Cheddar Cheese",
+    "calories": 80,
+    "fat": 4,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 5
+  },
+  {
+    "name": "Multigrain Bread",
+    "calories": 160,
+    "fat": 3.5,
+    "carbs": 27,
+    "sugar": 3,
+    "protein": 5
+  },
+  {
+    "name": "Black Olives",
+    "calories": 80,
+    "fat": 8,
+    "carbs": 4,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Lettuce",
+    "calories": 0,
+    "fat": 0,
+    "carbs": 0.52,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Sliced Dill Pickles",
+    "calories": 10,
+    "fat": 0,
+    "carbs": 2,
+    "sugar": 1,
+    "protein": 0
+  },
+  {
+    "name": "Chimichurri Chicken",
+    "calories": 170,
+    "fat": 6,
+    "carbs": 0.53,
+    "sugar": 0,
+    "protein": 25
+  },
+  {
+    "name": "Roasted Eggplant",
+    "calories": 160,
+    "fat": 14,
+    "carbs": 9,
+    "sugar": 5,
+    "protein": 1
+  },
+  {
+    "name": "Corn on the Cob",
+    "calories": 180,
+    "fat": 6,
+    "carbs": 34,
+    "sugar": 8,
+    "protein": 5
+  },
+  {
+    "name": "Confetti Rice",
+    "calories": 70,
+    "fat": 2,
+    "carbs": 11,
+    "sugar": 0.86,
+    "protein": 1
+  },
+  {
+    "name": "Grilled Italian Sausage with Peppers & Onions",
+    "calories": 590,
+    "fat": 50,
+    "carbs": 12,
+    "sugar": 5,
+    "protein": 21
+  },
+  {
+    "name": "Roasted Yellow Squash",
+    "calories": 30,
+    "fat": 0.5,
+    "carbs": 4,
+    "sugar": 3,
+    "protein": 1
+  },
+  {
+    "name": "Spicy Kale",
+    "calories": 60,
+    "fat": 2,
+    "carbs": 9,
+    "sugar": 3,
+    "protein": 3
+  },
+  {
+    "name": "Baked Penne",
+    "calories": 250,
+    "fat": 8,
+    "carbs": 31,
+    "sugar": 4,
+    "protein": 14
+  },
+  {
+    "name": "Grilled Pimento Cheese and Tomato Sandwich",
+    "calories": 400,
+    "fat": 24,
+    "carbs": 30,
+    "sugar": 4,
+    "protein": 13
+  },
+  {
+    "name": "Shoestring Fries",
+    "calories": 180,
+    "fat": 10,
+    "carbs": 20,
+    "sugar": 0,
+    "protein": 2
+  },
+  {
+    "name": "Vegan Sliced Cheese",
+    "calories": 60,
+    "fat": 4.5,
+    "carbs": 4,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Sliced Yellow American Cheese",
+    "calories": 40,
+    "fat": 3.5,
+    "carbs": 1,
+    "sugar": 0.5,
+    "protein": 2
+  },
+  {
+    "name": "Malibu Gardenburger",
+    "calories": 350,
+    "fat": 12,
+    "carbs": 53,
+    "sugar": 7,
+    "protein": 11
+  },
+  {
+    "name": "Udi's Gluten-Free Hamburger Bun",
+    "calories": 190,
+    "fat": 5,
+    "carbs": 32,
+    "sugar": 5,
+    "protein": 5
+  },
+  {
+    "name": "Veggie Toppings",
+    "calories": 15,
+    "fat": 0,
+    "carbs": 3,
+    "sugar": 2,
+    "protein": 0.55
+  },
+  {
+    "name": "Hamburger Bun",
+    "calories": 150,
+    "fat": 1.5,
+    "carbs": 30,
+    "sugar": 4,
+    "protein": 6
+  },
+  {
+    "name": "General Tso Tempura Chicken",
+    "calories": 350,
+    "fat": 9,
+    "carbs": 54,
+    "sugar": 15,
+    "protein": 11
+  },
+  {
+    "name": "Soy Bites",
+    "calories": 170,
+    "fat": 11,
+    "carbs": 9,
+    "sugar": 2,
+    "protein": 9
+  },
+  {
+    "name": "Cheerwine BBQ Chicken Pizza",
+    "calories": 190,
+    "fat": 5,
+    "carbs": 29,
+    "sugar": 6,
+    "protein": 9
+  },
+  {
+    "name": "Margherita Pizza",
+    "calories": 250,
+    "fat": 9,
+    "carbs": 32,
+    "sugar": 2,
+    "protein": 12
+  },
+  {
+    "name": "Cheese Pizza",
+    "calories": 250,
+    "fat": 8,
+    "carbs": 32,
+    "sugar": 2,
+    "protein": 12
+  },
+  {
+    "name": "Vegan Cheese Pizza",
+    "calories": 200,
+    "fat": 7,
+    "carbs": 31,
+    "sugar": 2,
+    "protein": 4
+  },
+  {
+    "name": "Pepperoni Pizza",
+    "calories": 250,
+    "fat": 12,
+    "carbs": 26,
+    "sugar": 1,
+    "protein": 12
+  },
+  {
+    "name": "Hawaiian Chicken Poke Bowl",
+    "calories": 670,
+    "fat": 29,
+    "carbs": 79,
+    "sugar": 31,
+    "protein": 25
+  },
+  {
+    "name": "Soy Sauce",
+    "calories": 10,
+    "fat": 0,
+    "carbs": 2,
+    "sugar": 2,
+    "protein": 1
+  },
+  {
+    "name": "Tofu Poke Bowl",
+    "calories": 400,
+    "fat": 24,
+    "carbs": 39,
+    "sugar": 24,
+    "protein": 9
+  },
+  {
+    "name": "Sriacha Mayonnaise",
+    "calories": 180,
+    "fat": 19,
+    "carbs": 1,
+    "sugar": 0.71,
+    "protein": 0
+  },
+  {
+    "name": "Hot Chili Con Carne",
+    "calories": 260,
+    "fat": 11,
+    "carbs": 25,
+    "sugar": 6,
+    "protein": 15
+  },
+  {
+    "name": "Matzo Ball Soup",
+    "calories": 180,
+    "fat": 3.5,
+    "carbs": 29,
+    "sugar": 0.92,
+    "protein": 5
+  },
+  {
+    "name": "Sauteed Chorizo",
+    "calories": 270,
+    "fat": 22,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 18
+  },
+  {
+    "name": "Guacamole",
+    "calories": 110,
+    "fat": 11,
+    "carbs": 4,
+    "sugar": 0,
+    "protein": 2
+  },
+  {
+    "name": "Cajun Style Pinto Beans",
+    "calories": 120,
+    "fat": 2,
+    "carbs": 18,
+    "sugar": 0,
+    "protein": 6
+  },
+  {
+    "name": "Sour Cream",
+    "calories": 60,
+    "fat": 5,
+    "carbs": 2,
+    "sugar": 1,
+    "protein": 1
+  },
+  {
+    "name": "Shredded Cheddar Cheese",
+    "calories": 110,
+    "fat": 9,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 7
+  },
+  {
+    "name": "Queso Sauce",
+    "calories": 120,
+    "fat": 10,
+    "carbs": 3,
+    "sugar": 2,
+    "protein": 5
+  },
+  {
+    "name": "Jalapeno Peppers",
+    "calories": 0,
+    "fat": 0,
+    "carbs": 0.79,
+    "sugar": 0.79,
+    "protein": 0
+  },
+  {
+    "name": "Tortilla Chips",
+    "calories": 150,
+    "fat": 7,
+    "carbs": 22,
+    "sugar": 0,
+    "protein": 2
+  },
+  {
+    "name": "Pico Salsa",
+    "calories": 5,
+    "fat": 0,
+    "carbs": 2,
+    "sugar": 1,
+    "protein": 0
+  },
+  {
+    "name": "Black Olives",
+    "calories": 80,
+    "fat": 8,
+    "carbs": 4,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Cliantro Marinated Chicken",
+    "calories": 170,
+    "fat": 6,
+    "carbs": 2,
+    "sugar": 0,
+    "protein": 26
+  },
+  {
+    "name": "Local Italian Sausage",
+    "calories": 230,
+    "fat": 17,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 17
+  },
+  {
+    "name": "White Alfredo Sauce",
+    "calories": 180,
+    "fat": 13,
+    "carbs": 10,
+    "sugar": 6,
+    "protein": 6
+  },
+  {
+    "name": "Chipotle Mayonnaise",
+    "calories": 220,
+    "fat": 22,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Sliced Salami",
+    "calories": 180,
+    "fat": 15,
+    "carbs": 2,
+    "sugar": 1,
+    "protein": 8
+  },
+  {
+    "name": "Mayonnaise",
+    "calories": 100,
+    "fat": 11,
+    "carbs": 1,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Chunky Chicken Salad",
+    "calories": 60,
+    "fat": 5,
+    "carbs": 2,
+    "sugar": 0,
+    "protein": 1
+  },
+  {
+    "name": "Yellow Mustard",
+    "calories": 0,
+    "fat": 0,
+    "carbs": 3,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Tuna Salad",
+    "calories": 290,
+    "fat": 21,
+    "carbs": 0.63,
+    "sugar": 0,
+    "protein": 17
+  },
+  {
+    "name": "Spicy Brown Mustard",
+    "calories": 15,
+    "fat": 0,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 0
+  },
+  {
+    "name": "Oil and Vinegar",
+    "calories": 90,
+    "fat": 11,
+    "carbs": 0,
+    "sugar": 0,
+    "protein": 0
+  }
+]
